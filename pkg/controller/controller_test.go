@@ -8,11 +8,11 @@ import (
 	"os"
 	"testing"
 
-	"github.com/mikestefanello/pagoda/config"
-	"github.com/mikestefanello/pagoda/pkg/htmx"
-	"github.com/mikestefanello/pagoda/pkg/middleware"
-	"github.com/mikestefanello/pagoda/pkg/services"
-	"github.com/mikestefanello/pagoda/pkg/tests"
+	"github.com/hymnis/fikalistan/config"
+	"github.com/hymnis/fikalistan/pkg/htmx"
+	"github.com/hymnis/fikalistan/pkg/middleware"
+	"github.com/hymnis/fikalistan/pkg/services"
+	"github.com/hymnis/fikalistan/pkg/tests"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

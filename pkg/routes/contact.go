@@ -3,8 +3,8 @@ package routes
 import (
 	"fmt"
 
-	"github.com/mikestefanello/pagoda/pkg/context"
-	"github.com/mikestefanello/pagoda/pkg/controller"
+	"github.com/hymnis/fikalistan/pkg/context"
+	"github.com/hymnis/fikalistan/pkg/controller"
 
 	"github.com/labstack/echo/v4"
 )

@@ -24,13 +24,16 @@
 ### Make commands
 
 - `make up`: Setup service containers
-- `make run`: Run application container
+- `make run`: Run application
 - `make reset`: Re-create containers
 - `make test`: Run all tests, in correct order
 - `make db`: Connects to the primary database
 - `make db-test`: Connects to the test database
 - `make cache`: Connects to the primary cache
 - `make cache-test`: Connects to the test cache
+- `make ent-install`: Install all needed ent code
+- `make ent-gen`: Generate code from entity type schemas
+- `make ent-new`: Create a new entity type
 
 
 ## Credits

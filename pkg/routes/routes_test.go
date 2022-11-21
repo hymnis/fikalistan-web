@@ -8,8 +8,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/mikestefanello/pagoda/config"
-	"github.com/mikestefanello/pagoda/pkg/services"
+	"github.com/hymnis/fikalistan/config"
+	"github.com/hymnis/fikalistan/pkg/services"
 
 	"github.com/PuerkitoBio/goquery"
 	"github.com/stretchr/testify/assert"

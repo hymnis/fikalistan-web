@@ -14,11 +14,11 @@ import (
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/gommon/log"
 
-	"github.com/mikestefanello/pagoda/config"
-	"github.com/mikestefanello/pagoda/ent"
+	"github.com/hymnis/fikalistan/config"
+	"github.com/hymnis/fikalistan/ent"
 
 	// Require by ent
-	_ "github.com/mikestefanello/pagoda/ent/runtime"
+	_ "github.com/hymnis/fikalistan/ent/runtime"
 )
 
 // Container contains all services used by the application and provides an easy way to handle dependency

@@ -4,10 +4,10 @@ import (
 	"os"
 	"testing"
 
-	"github.com/mikestefanello/pagoda/config"
-	"github.com/mikestefanello/pagoda/ent"
-	"github.com/mikestefanello/pagoda/pkg/services"
-	"github.com/mikestefanello/pagoda/pkg/tests"
+	"github.com/hymnis/fikalistan/config"
+	"github.com/hymnis/fikalistan/ent"
+	"github.com/hymnis/fikalistan/pkg/services"
+	"github.com/hymnis/fikalistan/pkg/tests"
 )
 
 var (

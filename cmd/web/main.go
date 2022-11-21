@@ -9,8 +9,8 @@ import (
 	"os/signal"
 	"time"
 
-	"github.com/mikestefanello/pagoda/pkg/routes"
-	"github.com/mikestefanello/pagoda/pkg/services"
+	"github.com/hymnis/fikalistan/pkg/routes"
+	"github.com/hymnis/fikalistan/pkg/services"
 )
 
 func main() {

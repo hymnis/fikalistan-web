@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/mikestefanello/pagoda/pkg/tests"
+	"github.com/hymnis/fikalistan/pkg/tests"
 
 	"github.com/labstack/echo/v4"
 

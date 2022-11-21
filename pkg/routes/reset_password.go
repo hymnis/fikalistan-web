@@ -1,10 +1,10 @@
 package routes
 
 import (
-	"github.com/mikestefanello/pagoda/ent"
-	"github.com/mikestefanello/pagoda/pkg/context"
-	"github.com/mikestefanello/pagoda/pkg/controller"
-	"github.com/mikestefanello/pagoda/pkg/msg"
+	"github.com/hymnis/fikalistan/ent"
+	"github.com/hymnis/fikalistan/pkg/context"
+	"github.com/hymnis/fikalistan/pkg/controller"
+	"github.com/hymnis/fikalistan/pkg/msg"
 
 	"github.com/labstack/echo/v4"
 )

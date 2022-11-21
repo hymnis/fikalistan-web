@@ -8,11 +8,11 @@ import (
 	"time"
 
 	"github.com/golang-jwt/jwt"
-	"github.com/mikestefanello/pagoda/config"
-	"github.com/mikestefanello/pagoda/ent"
-	"github.com/mikestefanello/pagoda/ent/passwordtoken"
-	"github.com/mikestefanello/pagoda/ent/user"
-	"github.com/mikestefanello/pagoda/pkg/context"
+	"github.com/hymnis/fikalistan/config"
+	"github.com/hymnis/fikalistan/ent"
+	"github.com/hymnis/fikalistan/ent/passwordtoken"
+	"github.com/hymnis/fikalistan/ent/user"
+	"github.com/hymnis/fikalistan/pkg/context"
 
 	"github.com/labstack/echo-contrib/session"
 	"github.com/labstack/echo/v4"
